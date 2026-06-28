@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Obisidan/Obisidan/raw/main/78xux2ti42c11.png" width="100%"/>
+<img src="https://github.com/Obisidan/Obisidan/raw/main/sayori_halfbody.webp" width="200"/>
 
 ### pure rust encryption suite — lock any USB behind a password
 
@@ -9,8 +9,6 @@
 [![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 
 </div>
-
-<img align="right" width="150" src="https://github.com/Obisidan/Obisidan/raw/main/sayori_halfbody.webp"/>
 
 ## Features
 
@@ -21,19 +19,7 @@
 - **Paper backup reminder** — warns you to write down your password before exit
 - **CLI mode** — scriptable encrypt/decrypt/wipe from command line
 
-<div align="center">
-
-<img src="https://github.com/Obisidan/Obisidan/raw/main/78xux2ti42c11.png" width="80%"/>
-
-</div>
-
 ## Security Model
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Obisidan&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&border_color=FF69B4"/>
-
-</div>
 
 1. You provide a **password** and select a **USB device**
 2. A random 16-byte **salt** and 12-byte **nonce** are generated
@@ -80,12 +66,6 @@ lsblk
 sudo umount /dev/sdb*
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obisidan&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&border_color=FF69B4&layout=compact"/>
-
-</div>
-
 ## Architecture
 
 ```
@@ -106,12 +86,6 @@ usb-vault/
 └── README.md
 ```
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Obisidan&theme=radical&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FF69B4&dates=888888&border=FF69B4"/>
-
-</div>
-
 ## ⚠️ Warning
 
 > **IF YOU LOSE YOUR PASSWORD, YOUR DATA IS GONE FOREVER.**
@@ -119,24 +93,6 @@ usb-vault/
 > The authors are not responsible for any data loss. Always test with a non-critical device first.
 > Write your password down on paper and store it somewhere safe.
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Obisidan&theme=radical&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&border_color=FF69B4&column=4&margin-w=10&margin-h=10"/>
-
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Obisidan&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true&title_color=FF69B4"/>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&text_color=FF69B4&border_color=FF69B4"/>
-
-<br/>
-
 Sayori is the best character ever. If you know, you know.
-
-</div>
