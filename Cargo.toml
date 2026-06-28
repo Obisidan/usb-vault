@@ -1,0 +1,22 @@
+[package]
+name = "usb-vault"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Obisidan"]
+description = "Pure Rust USB drive encryption suite - lock any USB behind a password"
+readme = "README.md"
+repository = "https://github.com/Obisidan/usb-vault"
+keywords = ["encryption", "usb", "security", "aes", "tui", "rust"]
+categories = ["cryptography", "command-line-utilities"]
+
+[dependencies]
+ratatui = "0.27"
+crossterm = "0.27"
+getrandom = "0.2"
+rpassword = "7.3"
+
+[profile.release]
+opt-level = "z"
+lto = true
+strip = true
